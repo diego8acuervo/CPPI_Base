@@ -1,0 +1,4 @@
+# Optional: live data from a Bloomberg Terminal (Windows/macOS with Terminal running).
+# Install with:  make bloomberg
+--index-url https://blpapi.bloomberg.com/repository/releases/python/simple/
+blpapi

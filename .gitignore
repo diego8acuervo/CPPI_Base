@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel lock files
+~$*.xlsx
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Smoke-test output
+build/
